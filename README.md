@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on autonomous systems
-- 🌱 I’m currently learning cloud native architecture and C#
+- 🚢 Platform engineering and DevEx
+- 🌥 AWS & Azure
 
 <!--
 **jon-andre/jon-andre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
